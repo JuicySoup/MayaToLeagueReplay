@@ -1,6 +1,6 @@
-Links 3D camera in Maya to the ingame camera in a League of Legends replay.
+This plugin links 3D camera in Maya to the ingame camera in a League of Legends replay.
 
-put the "MayaToLeagueReplay" folder in your scripts folder  
+Put the "MayaToLeagueReplay" folder in your scripts folder  
 and put the createCamera.py from the plug-ins folder in your plug-ins folder
 
 to open the ui run this:
